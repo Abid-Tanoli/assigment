@@ -1,0 +1,871 @@
+@media screen and (min-width: 1601px) {
+    html {
+        margin: 0;
+        padding: 0;
+    }
+    body {
+        width: 98vw;
+        height: 99vh;
+    }
+    .responsive-video {
+        margin-top: 20px;
+        margin-right: -20px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    html {
+        margin: 0px;
+        padding: 0px;
+    }
+    body {
+        width: 99vw;
+        height: 99vh;
+    }
+    .responsive-video {
+        margin-top: 20px;
+        margin-right: -160px;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    html {
+        margin: 0px;
+        padding: 0px;
+    }
+    body {
+        width: 97vw;
+        height: 99vh;
+    }
+    .sectionc{
+        width: 97vw;
+        height: auto;
+    }
+    .background1{
+        width: 98vw;
+    }
+    .text-tv {
+        align-items: center;
+        height: 90vh;
+        width: 97vw;
+        font-size: 15px;
+    }
+    .tv-lefttext {
+        margin-top: 40px;
+        height: 40vh;
+        width: 30vw;
+    }
+       
+    .tv {
+        width: 40vw;
+        height: 80vh;
+    }
+     
+    .responsive-video {
+        height: 220px;
+        width: 250px;
+        margin-top: 340px;
+        margin-right: -100px;
+    }
+    .responsive-tv {
+        height: 270px;
+        width: 330px;
+        margin-left: -45px;
+        margin-top: 25px;
+    }    
+
+    .background2 {
+        height: 100vh;
+        width: 98vw;
+    }
+    .image-text3 {
+        height: 60vh;
+        width: 60vw;
+        font-size: 10px;
+        display: flex;
+        flex-direction: row;
+    } 
+    .mobile {
+        width: 5vw;
+    }
+    
+    .mobileflow {
+        width: 15vw;
+        height: 10vh;
+        margin-left: -80px;
+        gap: 5px;
+        font-size: 15px;
+    }
+    .icon {
+        height: 10vh;
+        width: 10vw;
+        margin-left: -5px;
+    }
+    .responsive-mobile {
+        height: 370px;
+        width: 330px;
+        margin-top: -445px;
+        margin-left: -25px;
+    }
+    .responsive-mobilearea {
+        height: 40px;
+        width: 20px;
+    }
+    .offline {
+        height: 5vh;
+        width: 60vw;
+        font-size: 20px;
+        margin-top: 200px;
+    }
+}
+
+@media screen and (max-width: 940px)  {
+    html {
+        margin: 0px;
+        padding: 0px;
+    }
+    body {
+        width: 98vw;
+        height: 99vh;
+    }   
+    .section {
+        height: 98vh;
+        width: 98vw;
+        flex-wrap: wrap;
+    }
+    .background-image {
+        height: 98vh;
+        width: 99vw;
+    }
+    .header {
+        font-size: 20px;
+        width: 80vw;
+        height: 100vh;
+        margin-left: -160px;
+    }
+    .getstart-email {
+        display: flex;
+        width: 40px;
+    }
+    .email {
+        width: 40vw;
+        height: 8vh;
+        margin-left: 120px;
+    }
+    .getstart {
+        background-color: red;
+        height: 8vh;
+        width: 20vw;
+        margin-left: 10px;
+        font-size: 1em;
+    }
+
+    .background1 {
+        height: 98vh;
+        width: 99vw;    
+    }
+    .text-tv {
+        height: 75vh;
+        width: 98vw;
+        font-size: 15px;
+    }
+    .tv-lefttext {
+        height: 40vh;
+        width: 30vw;
+    }
+       
+    .tv {
+        width: 40vw;
+        height: 60vh;
+    }
+     
+    .responsive-video {
+        height: 180px;
+        width: 220px;
+        margin-top: 280px;
+        margin-right: -450px;
+    }
+    .responsive-tv {
+        height: 220px;
+        width: 270px;
+        margin-left: -45px;
+        margin-top: 25px;
+    }    
+
+    .background2 {
+        height: 90vh;
+        width: 98vw;
+    }
+    .image-text3 {
+        display: flex;
+        flex-direction: row;
+        height: 40vh;
+        width: 99vw;
+        font-size: 10px;
+    } 
+    .mobile {
+        width: 50vw;
+        height: -120px;
+        margin-top: 120px;
+    }
+    
+    .mobileflow {
+        width: 25vw;
+        height: 10vh;
+        margin-left: -80px;
+        gap: 5px;
+        font-size: 15px;
+    }
+    .icon {
+        height: 2vh;
+        margin-left: -5px;
+    }
+    .responsive-mobile {
+        height: 370px;
+        width: 330px;
+        margin-top: -445px;
+        margin-left: -25px;
+    }
+    .responsive-mobilearea {
+        height: 40px;
+        width: 20px;
+    }
+    .offline {
+        height: 80vh;
+        width: 30vw;
+        font-size: 20px;
+        margin-top: 200px;
+    }
+    .stream {
+        height: 75vh;
+        width: 98vw;
+        font-size: 18px;
+        
+    }
+    .streamtext {
+        width: 60vw;
+        margin-left: 30px;
+    }
+
+    .kid-text-image {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        height: 60vh;
+    }
+    .kids {
+        height: 60vh;
+        width: 98vw;
+    }
+    .kid-text-image {
+        height: 20vh;
+    }
+    .kidsimage {
+        height: 20vh;
+        width: 40vw;
+    }
+    .responsive-kids {
+        height: 360px;
+        width: 360px;
+        margin-left: -140px;
+    }
+
+    .kidstext {
+        font-size: 20px;
+        color: white;
+        height: 1vh;
+        width: 20vw;
+    }
+        .chat-btn {
+        display: none;
+    }
+    .frequently {
+        background-color: black;
+        height: 900px;
+        width: 98vw;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .heading {
+        font-size: 1em;
+        color: white;
+        width: 50vw;
+    }
+    
+    .Questions {
+        height: 100vh;
+        width: 50vw;
+        color: white;
+        font-size: 1.5em;
+    }
+    
+    .Questionslist {
+        height: 75px;
+    }
+    .Questionsfooter {
+        color: white;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 1vh;
+        font-size: 1.3em;
+    }
+    
+    .Questionsfooteremail {
+        background-color: transparent;
+        width: 35vw;
+        height: 5vh;
+    }
+    
+    .Questionsfootergetstart {
+        background-color: red;
+        width: 20vw;
+        height: 50px;
+        font-size: x-large;
+    }
+    
+    .Questionsfooter p {
+        font-size: 20px;
+        margin-top: -350px;
+    }
+    .footer {
+        height: 80vh;
+        width: 98vw;
+        overflow: hidden;
+        font-size: 5px;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    html {
+        margin: 0px;
+        padding: 0px;
+    }
+    body {
+        width: 98vw;
+        height: 99vh;
+    }
+    .section {
+        height: 99vh;
+        width: 98vw;
+        flex-wrap: wrap;
+    }
+    .background-image {
+        height: 99vh;
+        width: 98vw;
+    }
+    .logo {
+        display: flex;
+        flex-direction: column;
+    }
+    .header {
+        font-size: 10px;
+        width: 60vw;
+        height: 100vh;
+        margin-left: -160px;
+    }
+    .getstart-email {
+        display: flex;
+        flex-direction: column;
+    }
+    .email {
+        width: 50vw;
+        height: 3vh;
+        margin-left: -250px;
+    }
+    .getstart {
+        background-color: red;
+        height: 4vh;
+        width: 20vw;
+        margin-left: -600px;
+        font-size: 1em;
+    }
+
+    .background1 {
+        height: 80vh;
+        width: 98vw;    
+    }
+    .text-tv {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+        height: 85vh;
+        width: 98vw;
+        font-size: 15px;
+    }
+    .tv-lefttext {
+        margin-top: 40px;
+        height: 20vh;
+        width: 60vw;
+    }
+       
+    .tv {
+        width: 50vw;
+        height: 100vh;
+    }
+     
+    .responsive-video {
+        height: 250px;
+        width: 200px;
+        margin-top: 20px;
+        margin-right: -50px;
+    }
+    .responsive-tv {
+        height: 210px;
+        width: 250px;
+        margin-left: -45px;
+        margin-top: 25px;
+    }    
+
+    .background2 {
+        height: 100vh;
+        width: 98vw;
+    }
+    .image-text3 {
+        height: 60vh;
+        width: 60vw;
+        font-size: 15px;
+    } 
+    .mobile {
+        width: 20vw;
+    }
+    
+    .mobileflow {
+        width: 28vw;
+        height: 10vh;
+        margin-left: -60px;
+        gap: 5px;
+        font-size: 10px;
+    }
+    .icon {
+        height: 10vh;
+        width: 10vw;
+        margin-left: -20px;
+    }
+    .responsive-mobile {
+        height: 300px;
+        width: 320px;
+        margin-top: -445px;
+        margin-left: -20px;
+    }
+    .responsive-mobilearea {
+        height: 40px;
+        width: 20px;
+    }
+    .offline {
+        height: 10vh;
+        width: 50vw;
+        font-size: 15px;
+        margin-top: 200px;
+    }
+    .stream {
+        height: 75vh;
+        width: 98vw;
+        font-size: 18px;
+        
+    }
+    .streamtext {
+        width: 90vw;
+        margin-left: 10px;
+    }
+    .kid-text-image {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 80vh;
+    }
+    
+    .kidsimage {
+        height: 80vh;
+        width: 50vw;
+    }
+    .responsive-kids {
+        height: 230px;
+        width: 260px;
+        margin-left: 20px;
+    }
+
+    .kidstext {
+        font-size: 20px;
+        color: white;
+        height: 1vh;
+        width: 60vw;
+        margin-right: -70px;
+    }
+
+    .chat-btn {
+        display: none;
+    }
+    .frequently {
+        height: 1000px;
+        width: 98vw;
+    }
+    
+    .heading {
+        font-size: 1em;
+        color: white;
+        width: 70vw;
+    }
+    
+    .Questions {
+        height: 100vh;
+        width: 70vw;
+        color: white;
+        font-size: 1.3em;
+    }
+    
+    .Questionslist {
+        height: 75px;
+    }
+    .Questionsfooter {
+        color: white;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 5vh;
+        font-size: 1em;
+    }
+    
+    .Questionsfooteremail {
+        background-color: transparent;
+        width: 35vw;
+        height: 5vh;
+    }
+    
+    .Questionsfootergetstart {
+        background-color: red;
+        width: 30vw;
+        height: 50px;
+        font-size: 15px;
+    }
+    
+    .Questionsfooter p {
+        font-size: 20px;
+        margin-top: -90px;
+    }
+    .footer {
+        height: 80vh;
+        width: 99vw;
+        overflow: hidden;
+        font-size: 10px;
+    }
+    .footer1 {
+        height: 70vh;
+        width: 20vw;
+    }
+    .f1 {
+        font-size: 15px;
+    }
+    
+    .button {
+        font-size: 1em;
+    }
+    
+    .footer2 {
+        height: 70vh;
+        width: 20vw;
+    }
+    
+    .f2 {
+        font-size: 15px;
+    }
+    
+    .footer3 {
+        height: 70vw;
+        width: 20vw;
+    }
+    
+    .f3 {
+        font-size: 15px;
+    }
+    
+    .footer4 {
+        height: 70vh;
+        width: 20vw;
+    }
+    
+    .f4 {
+        color: white;
+        font-size: 15px;
+    }
+}    
+
+@media screen and (max-width: 480px) {
+    html {
+        margin: 0px;
+        padding: 0px;
+    }
+    body {
+        width: 98vw;
+        height: 99vh;
+    }
+    .section {
+        height: 99vh;
+        width: 97vw;
+        flex-wrap: wrap;
+        overflow: hidden;
+    }
+    .background-image {
+        height: 99vh;
+        width: 98vw;
+    }
+    .logo {
+        display: flex;
+        flex-direction: column;
+    }
+    .header {
+        font-size: 10px;
+        width: 60vw;
+        height: 100vh;
+        margin-left: -160px;
+    }
+    .getstart-email {
+        display: flex;
+        flex-direction: column;
+    }
+    .email {
+        width: 50vw;
+        height: 3vh;
+        margin-left: -250px;
+    }
+    .getstart {
+        background-color: red;
+        height: 4vh;
+        width: 20vw;
+        margin-left: -600px;
+        font-size: 1em;
+    }
+
+    .background1 {
+        height: 60vh;
+        width: 98vw;    
+    }
+    .text-tv {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        justify-items: center;
+        align-items: center;
+        height: 75vh;
+        width: 98vw;
+        font-size: 10px;
+    }
+    .tv-lefttext {
+        margin-top: 40px;
+        height: 20vh;
+        width: 60vw;
+    }
+       
+    .tv {
+        width: 30vw;
+        height: 100vh;
+    }
+     
+    .responsive-video {
+        height: 140px;
+        width: 160px;
+        margin-top: 2px;
+        margin-right: -142px;
+        position: absolute;
+    }
+    .responsive-tv {
+        height: 170px;
+        width: 200px;
+        margin-left: -45px;
+        margin-top: 25px;
+    }    
+
+    .background2 {
+        height: 100vh;
+        width: 98vw;
+    }
+    .image-text3 {
+        height: 60vh;
+        width: 60vw;
+        font-size: 10px;
+    } 
+    .mobile {
+        width: 80vw;
+    }
+    .mobileflow {
+        width: 50vw;
+        height: 10vh;
+        margin-left: -80px;
+        font-size: 8px;
+    }
+    .textwhite {
+        font-size: 1.5em;
+        color: white;
+        margin-left: -25px;
+    }
+    
+    .textblue {
+        font-size: 1.5em;
+        margin-left: -25px;
+    
+    }
+    .icon {
+        height: 10vh;
+        width: 15vw;
+        margin-left: -40px;
+    }
+    .responsive-mobile {
+        height: 300px;
+        width: 250px;
+        margin-top: -445px;
+        margin-left: -20px;
+    }
+    .responsive-mobilearea {
+        height: 40px;
+        width: 20px;
+    }
+    .offline {
+        height: 10vh;
+        width: 50vw;
+        font-size: 15px;
+        margin-top: 80px;
+    }
+    .stream {
+        height: 75vh;
+        width: 98vw;
+        font-size: 18px;
+        
+    }
+    .streamtext {
+        width: 40vw;
+        margin-left: 40px;
+        font-size: 18px;
+    }
+    .kid-text-image {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 80vh;
+    }
+    
+    .kidsimage {
+        height: 80vh;
+        width: 40vw;
+        margin-left: -60px;
+    }
+    .responsive-kids {
+        height: 230px;
+        width: 260px;
+        margin-left: -70px;
+    }
+
+    .kidstext {
+        font-size: 20px;
+        color: white;
+        height: 1vh;
+        width: 60vw;
+        margin-right: -70px;
+    }
+
+        .chat-btn {
+        display: none;
+    }
+    .frequently {
+        background-color: black;
+        height: 1000px;
+        width: 98vw;
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .heading {
+        font-size: .7em;
+        color: white;
+        width: 80vw;
+    }
+    
+    .Questions {
+        height: 100vh;
+        width: 70vw;
+        color: white;
+        font-size: 1em;
+    }
+    
+    .Questionslist {
+        height: 75px;
+    }
+    .Questionsfooter {
+        color: white;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 5vh;
+        font-size: 1em;
+    }
+    
+    .Questionsfooteremail {
+        background-color: transparent;
+        width: 35vw;
+        height: 5vh;
+    }
+    
+    .Questionsfootergetstart {
+        background-color: red;
+        width: 30vw;
+        height: 50px;
+        font-size: 15px;
+    }
+    
+    .Questionsfooter p {
+        font-size: 20px;
+        margin-top: -90px;
+    }
+    .footer {
+        height: 80vh;
+        width: 99vw;
+        overflow: hidden;
+        font-size: 10px;
+    }
+    .footer1 {
+        height: 70vh;
+        width: 20vw;
+    }
+    .f1 {
+        font-size: 15px;
+    }
+    
+    .button {
+        font-size: 1em;
+    }
+    
+    .footer2 {
+        height: 70vh;
+        width: 20vw;
+    }
+    
+    .f2 {
+        font-size: 15px;
+    }
+    
+    .footer3 {
+        height: 70vw;
+        width: 20vw;
+    }
+    
+    .f3 {
+        font-size: 15px;
+    }
+    
+    .footer4 {
+        height: 70vh;
+        width: 20vw;
+    }
+    
+    .f4 {
+        color: white;
+        font-size: 15px;
+    }
+}

@@ -1,0 +1,376 @@
+html {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+    flex-wrap: wrap;
+}
+.body {
+    width: 99vw;
+}
+.section {
+    border-bottom: solid 10px darkgrey;
+    flex-wrap: wrap;
+}
+
+.background-image {
+    background-image: url('../NetflixAssignment5/Image/top Background-0819.jpg');
+    height: 100vh;
+    width: 98vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.logo img {
+    height: 40px;
+}
+
+.signin {
+    background-color: red;
+    color: white;
+    font-size: 1.5em;
+}
+.getstart-email {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 80vw;
+    gap: 20px;
+    margin-left: 140px;
+}
+.email {
+    background-color: transparent;
+    width: 20vw;
+    height: 9vh;
+}
+
+.getstart {
+    border-radius: 8px;
+    border-color: transparent;
+    background-color: red;
+    height: 10vh;
+    width: 8vw;
+    font-size: 1em;
+}
+.header {
+    margin-top: 160px;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header h1 {
+    font-size: 3em;
+    margin-bottom: 0;
+}
+
+.header p {
+    font-size: 1.5em;
+    margin-top: 0;
+}
+
+.background1 {
+    background-color: black;
+    height: 80vh;
+    width: 98vw;    
+}
+.text-tv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-items: center;
+    height: 70vh;
+    width: 98vw;
+}
+.tv-lefttext {
+    height: 30vh;
+    width: 30vw;
+    font-size: 1.5em;
+    color: white;
+}
+.tv-video {
+    height: 50vh;
+    width: 30vw;
+}
+
+.tv {
+    width: 25vw;
+    height: 20vh;
+    margin-top: 10px;
+    position: relative;
+}
+.video {
+    position: absolute;
+    margin-top: 62px;
+    right: 460px;
+    top: 725px;
+}
+
+.background2 {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+    width: 98vw;
+}
+.image-text3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.mobile {
+    width: 50vw;
+    position: relative;
+}
+
+.mobileflow {
+    border-width: 2px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 20px;
+    width: 18vw;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    position: absolute;
+    left: 95px;
+    bottom: 35px;
+    background: black;
+}
+.textwhite {
+    font-size: 1em;
+    color: white;
+
+}
+
+.textblue {
+    font-size: 1em;
+    color: blue;
+
+}
+
+.icon {
+    height: 50%;
+    width: 50%;
+    margin-left: 40px;
+}
+
+.offline {
+    height: 50vh;
+    width: 30vw;
+    font-size: 1.6em;
+    color: white;
+    margin-left: -150px;
+}
+.stream {
+    background-color: black;
+    height: 75vh;
+    width: 98vw;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.streamtext {
+    width: 30vw;
+    font-size: 1.5em;
+    color: white;
+    padding: 5%;
+    margin-left: 250px;
+}
+
+.kids {
+    background-color: black;
+    height: 99vh;
+    width: 98vw;    
+}
+.kid-text-image {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80vh;
+}
+
+.kidsimage {
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    left: 160px;
+
+}
+
+.kidstext {
+    font-size: 1.5em;
+    color: white;
+    height: 20vh;
+    width: 33vw;
+    position: absolute;
+    right: 160px;
+}
+
+.frequently {
+    background-color: black;
+    height: auto;
+    width: 98vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.heading {
+    font-size: 1.5em;
+    color: white;
+    width: 50%;
+}
+
+.Questions {
+    border: 2px solid black;
+    height: 100vh;
+    width: 50vw;
+    color: white;
+    font-size: 1.5em;
+}
+
+.Questionslist {
+    background-color: #333232;
+    margin: 10px;
+    height: 75px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.Questionsfooter {
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 30vh;
+    font-size: 1.5em;
+}
+
+.Questionsfooteremail {
+    background-color: transparent;
+    width: 25vw;
+    font-size: x-large;
+    padding: 6px;
+    margin-bottom: 20%;
+    position: relative;
+    right: 8px;
+}
+
+.Questionsfootergetstart {
+    background-color: red;
+    width: 12vw;
+    height: 50px;
+    font-size: x-large;
+    padding: 1px;
+}
+
+.Questionsfooter p {
+    font-size: 1em;
+    margin-top: 0;
+}
+
+
+.footer {
+    background-color: black;
+    height: 80vh;
+    width: 98vw;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 1em;
+}
+
+.footer1 {
+    height: 50vh;
+    width: 15vw;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-around;
+}
+
+.f1 {
+    color: white;
+    font-size: 20px;
+}
+
+.button {
+    background-color: rgba(30, 210, 135, 0.384);
+    border-radius: 10px;
+    color: black;
+    font-size: 2em;
+}
+
+.footer2 {
+    height: 45vh;
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-around;
+}
+
+.f2 {
+    color: white;
+    font-size: 25px;
+}
+
+.footer3 {
+    height: 20vw;
+    width: 20vw;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-evenly;
+}
+
+.f3 {
+    color: white;
+    font-size: 25px;
+}
+
+.footer4 {
+    height: 43vh;
+    width: 20vw;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: space-evenly;
+}
+
+.f4 {
+    color: white;
+    font-size: 25px;
+}
+
+.chat-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 80px;
+    border: no;
+    padding: 20px;
+    border-radius: 60%;
+}
